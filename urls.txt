@@ -1,0 +1,4 @@
+Practice APIs:
+
+https://github.com/15Dkatz/official_joke_api
+https://sv443.net/jokeapi
